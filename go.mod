@@ -1,4 +1,4 @@
-module github.com/asticode/go-astilectron-bundler
+module github.com/mdcatapult/go-astilectron-bundler
 
 go 1.13
 
@@ -11,5 +11,3 @@ require (
 	github.com/sam-kamerer/go-plister v1.2.0
 	github.com/stretchr/testify v1.4.0
 )
-
-replace github.com/asticode/go-astilectron-bundler => github.com/mdcatapult/go-astilectron-bundler latest

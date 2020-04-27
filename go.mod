@@ -1,4 +1,4 @@
-module github.com/mdcatapult/go-astilectron-bundler
+module github.com/asticode/go-astilectron-bundler
 
 go 1.13
 
@@ -12,4 +12,4 @@ require (
 	github.com/stretchr/testify v1.4.0
 )
 
-replace github.com/mdcatapult/go-astilectron-bundler => github.com/asticode/go-astilectron-bundler latest
+replace github.com/asticode/go-astilectron-bundler => github.com/mdcatapult/go-astilectron-bundler latest
